@@ -37,7 +37,7 @@ cp /project/rcc/workshops/hamid/spring2025/data/* .
 
 ### 5. Start an Interactive Session with Slurm
 ```bash
-sinteractive --nodes=1 --ntasks-per-node=2 --account=rcc-staff
+sinteractive --nodes=1 --ntasks-per-node=2 --account=pi-cnet
 ```
 
 ### 6. Load Python Module
